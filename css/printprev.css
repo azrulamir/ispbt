@@ -1,0 +1,14 @@
+body {
+	font-family: arial;
+	font-size: 12px; 
+}
+
+#container {
+	overflow: hidden;
+	width: 1190px;
+	height: 840px;
+}
+
+table {
+	border-collapse: collapse;
+}
